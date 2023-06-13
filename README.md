@@ -6,10 +6,10 @@ Tkinter is the most common, fast, and easy to use Python package used to build G
 we can just click on a button and get our next number on dice.
 
 ## TechStack and modules💻
-python </br>
-Tkinter: Import to use Tkinter and make GUI applications.</br>
-Image, Imagetk: Imported from PIL, i.e. Python Imaging Library. We use it to perform operations involving images in our UI.</br>
-Random: Imported to generate random numbers.
+Python </br>
+Tkinter:  Import to use Tkinter and make GUI applications.</br>
+Image, Imagetk:  Imported from PIL, i.e. Python Imaging Library. We use it to perform operations involving images in our UI.</br>
+Random:  Imported to generate random numbers.
 
 ## Steps 🕹️
 Step 1: Importing the required modules </br>
