@@ -1,0 +1,4 @@
+installing PIL give error -run 
+pip install Pillow --- as The library PIL is in Pillow 
+
+for tkinter installtion -- pip install tk
